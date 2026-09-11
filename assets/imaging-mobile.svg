@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="190" viewBox="0 0 210 190" role="img" aria-labelledby="t">
+<title id="t">CT reconstruction and MRI denoising workflows</title>
+<style>.scan{animation:b 5s ease-in-out infinite}@keyframes b{50%{transform:translateY(48px)}}</style>
+<rect x="1" y="1" width="208" height="188" rx="9" fill="#172735" stroke="#3B5263"/>
+<rect x="65" y="20" width="80" height="85" rx="5" fill="#0B1B26" stroke="#47687B"/><g fill="none" stroke="#8BABB8"><ellipse cx="105" cy="62" rx="25" ry="33"/><ellipse cx="94" cy="61" rx="8" ry="22"/><ellipse cx="116" cy="61" rx="8" ry="22"/></g><path class="scan" d="M71 38h68" stroke="#A6D9D6" stroke-width="2"/>
+<text x="18" y="137" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="600" fill="#E4EEF0">Inside the image</text>
+<text x="18" y="169" font-family="Consolas,monospace" font-size="14" fill="#8EBDC8">CT &amp; MRI</text><text x="180" y="171" font-size="18" fill="#F4CA8A">↗</text></svg>

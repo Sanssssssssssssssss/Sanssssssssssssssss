@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="190" viewBox="0 0 420 190" role="img" aria-labelledby="title">
+<title id="title">CT and MRI workflows — a conceptual scan illustration, not a medical result</title>
+
+<defs><clipPath id="scope"><rect x="279" y="26" width="105" height="114" rx="6"/></clipPath></defs>
+<rect x="1" y="1" width="418" height="188" rx="10" fill="#172735" stroke="#3B5263"/>
+<text x="28" y="44" font-family="Consolas,monospace" font-size="12" fill="#83BACA">CT / MRI</text>
+<text x="28" y="82" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#E4EEF0">Inside the image.</text>
+<text x="28" y="111" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#A8BEC8">Reconstruct. Denoise. Understand.</text>
+<rect x="279" y="26" width="105" height="114" rx="6" fill="#0B1B26" stroke="#47687B"/>
+<g fill="none" stroke="#8BABB8"><ellipse cx="331" cy="83" rx="35" ry="45"/><ellipse cx="315" cy="80" rx="12" ry="30"/><ellipse cx="347" cy="80" rx="12" ry="30"/><path d="M331 49v59m-24-55 8 13-7 11 12 13-7 14m42-51-8 13 7 11-12 13 7 14" stroke="#4D768A"/></g>
+<g clip-path="url(#scope)"><path class="scan" d="M285 50h92" stroke="#A6D9D6" stroke-width="2"/><rect class="scan" x="285" y="44" width="92" height="6" fill="#A6D9D6" opacity=".15"/></g>
+<text x="28" y="159" font-family="Consolas,monospace" font-size="13" fill="#8EBDC8">Scientific computing</text><text x="369" y="164" font-size="20" fill="#F4CA8A">↗</text>
+</svg>

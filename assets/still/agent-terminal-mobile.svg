@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="190" viewBox="0 0 210 190" role="img" aria-labelledby="t">
+<title id="t">Pi Agent for Python — unofficial Pi harness derived from Tau</title>
+
+<rect x="1" y="1" width="208" height="188" rx="9" fill="#141B2D" stroke="#34435B"/>
+<path d="M1 27h208" stroke="#34435B"/><circle cx="15" cy="14" r="3" fill="#D39A91"/><circle cx="27" cy="14" r="3" fill="#F4CA8A"/><circle cx="39" cy="14" r="3" fill="#91B6A0"/>
+<text x="18" y="66" font-family="Consolas,monospace" font-size="17" fill="#8BC5DA">$ pi-agent</text><path class="cursor" d="M18 85h11v16H18z" fill="#F4CA8A"/>
+<text x="18" y="137" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="600" fill="#E9EDF5">Agent systems</text>
+<text x="18" y="169" font-family="Consolas,monospace" font-size="14" fill="#9CAFCA">think → act</text><text x="180" y="171" font-size="18" fill="#F4CA8A">↗</text></svg>

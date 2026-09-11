@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="140" viewBox="0 0 860 140" role="img" aria-labelledby="title">
+<title id="title">Sans — from circuits to intelligent systems</title>
+
+<rect width="860" height="140" rx="6" fill="#0d1117"/>
+<g fill="#F4CA8A" font-family="Consolas,monospace"><text x="35" y="76" font-size="70" font-weight="700" letter-spacing="-5">Sans</text><path class="cursor" d="M206 68h27v7h-27z"/></g>
+<text x="37" y="110" font-family="Segoe UI,Arial,sans-serif" font-size="17" fill="#AABBD0">From circuits to intelligent systems.</text>
+<path d="M454 53H604V36H686M454 86h112v22h120" stroke="#30415B" fill="none" stroke-width="2"/>
+<g transform="translate(707 36)"><g class="spark">
+<path d="M20 0h24v7H20zM28 7h8v9h-8zM8 16h48v8h8v32h-8v8H8v-8H0V24h8z" fill="#F4CA8A"/>
+<path d="M8 27h48v23H8z" fill="#23314B"/><path d="M17 32h8v9h-8zM39 32h8v9h-8z" fill="#A3E0E1"/>
+<path d="M12 65h10v8H12zM42 65h10v8H42z" fill="#97ABC6"/>
+</g></g>
+<circle cx="688" cy="36" r="4" fill="#8BC5DA"/><circle cx="688" cy="108" r="4" fill="#91B6A0"/>
+<text x="455" y="74" font-family="Consolas,monospace" font-size="13" fill="#8BC5DA">come in. the lights are on.</text>
+</svg>

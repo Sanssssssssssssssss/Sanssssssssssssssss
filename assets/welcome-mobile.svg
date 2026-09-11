@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="125" viewBox="0 0 420 125" role="img" aria-labelledby="title">
+<title id="title">Sans — from circuits to intelligent systems</title>
+<style>.cursor{animation:blink 1.8s steps(2,end) infinite}@keyframes blink{50%{opacity:0}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect width="420" height="125" rx="6" fill="#0d1117"/>
+<text x="114" y="73" font-family="Consolas,monospace" font-size="66" font-weight="700" letter-spacing="-4" fill="#F4CA8A">Sans</text>
+<path class="cursor" d="M276 65h23v7h-23z" fill="#F4CA8A"/>
+<text x="210" y="108" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" fill="#AABBD0">From circuits to intelligent systems.</text>
+</svg>

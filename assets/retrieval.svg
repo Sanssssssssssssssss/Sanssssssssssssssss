@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="190" viewBox="0 0 420 190" role="img" aria-labelledby="title">
+<title id="title">Odoo semantic retrieval lab — a conceptual evidence-matching animation</title>
+<style>.match{animation:match 5s ease-in-out infinite}.route{stroke-dasharray:4 5;animation:route 12s linear infinite}@keyframes match{50%{stroke:#F4CA8A;fill:#393123}}@keyframes route{to{stroke-dashoffset:-90}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect x="1" y="1" width="418" height="188" rx="10" fill="#242333" stroke="#48455D"/>
+<g transform="translate(28 24)"><rect x="0" y="0" width="38" height="51" rx="3" fill="#3C3B50" stroke="#7D7F9F"/><path d="M9 14h19M9 23h19M9 32h12" stroke="#A9B5CB" stroke-width="2"/><path class="route" d="M44 26H237" stroke="#B3A6C9"/><rect x="247" y="0" width="82" height="20" rx="4" fill="#343449"/><rect class="match" x="247" y="26" width="82" height="20" rx="4" fill="#393123" stroke="#C5AD7C"/><rect x="247" y="52" width="82" height="20" rx="4" fill="#343449"/><path d="M257 10h57M257 36h57M257 62h57" stroke="#B1A7BE" stroke-width="2"/><path d="m339 33 5 5 10-12" stroke="#F4CA8A" fill="none" stroke-width="2"/></g>
+<text x="28" y="127" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="600" fill="#ECE8F0">Less noise. Better evidence.</text>
+<text x="28" y="158" font-family="Consolas,monospace" font-size="13" fill="#B9ABC8">Odoo retrieval lab</text><text x="369" y="160" font-size="20" fill="#F4CA8A">↗</text>
+</svg>

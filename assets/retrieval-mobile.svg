@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="190" viewBox="0 0 210 190" role="img" aria-labelledby="t">
+<title id="t">Odoo documentation retrieval and evaluation</title>
+<style>.route{stroke-dasharray:4 5;animation:b 8s linear infinite}@keyframes b{to{stroke-dashoffset:-90}}</style>
+<rect x="1" y="1" width="208" height="188" rx="9" fill="#242333" stroke="#48455D"/>
+<rect x="23" y="29" width="38" height="51" rx="3" fill="#3C3B50" stroke="#7D7F9F"/><path d="M32 43h20m-20 10h20m-20 10h13" stroke="#A9B5CB" stroke-width="2"/>
+<path class="route" d="M67 55h58" stroke="#B3A6C9"/><rect x="131" y="31" width="52" height="15" rx="3" fill="#343449"/><rect x="131" y="53" width="52" height="15" rx="3" fill="#393123" stroke="#F4CA8A"/><rect x="131" y="76" width="52" height="15" rx="3" fill="#343449"/>
+<text x="18" y="137" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="600" fill="#ECE8F0">Evidence first</text>
+<text x="18" y="169" font-family="Consolas,monospace" font-size="14" fill="#B9ABC8">Odoo retrieval</text><text x="180" y="171" font-size="18" fill="#F4CA8A">↗</text></svg>

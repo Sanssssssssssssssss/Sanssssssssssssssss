@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="85" viewBox="0 0 420 85" role="img" aria-labelledby="title">
+<title id="title">Save point — stay curious</title>
+
+<rect width="420" height="85" fill="#0d1117" rx="6"/><path d="M25 29h135m100 0h135" stroke="#29364A"/>
+<path class="star" d="M207 11h8v8h8v8h8v8h-16v16h-8V35h-16v-8h8v-8h8z" fill="#F4CA8A"/>
+<text x="210" y="72" text-anchor="middle" font-family="Consolas,monospace" font-size="13" fill="#A6B5CA">save point found. stay curious.</text>
+</svg>

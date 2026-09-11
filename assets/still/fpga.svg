@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="210" viewBox="0 0 420 210" role="img" aria-labelledby="title">
+<title id="title">FPGA image pipeline — a conceptual circuit and signal animation</title>
+
+<rect x="1" y="1" width="418" height="208" rx="10" fill="#182620" stroke="#3E574B"/>
+<g transform="translate(70 0) scale(.9)">
+<path d="M0 39H310M0 79H310M0 119H310M0 159H310M39 0V183M79 0V183M119 0V183M159 0V183M199 0V183M239 0V183M279 0V183" stroke="#233A30" opacity=".65"/>
+<g fill="none" stroke="#6A9B80" stroke-width="3"><path d="M35 120h55v-24h30M190 96h31v-30h45M35 53h44v25h41M190 122h35v27h40"/><path d="M133 57V40M147 57V40M163 57V40M177 57V40M133 144v17M147 144v17M163 144v17M177 144v17"/></g>
+<path class="signal" d="M35 120h55v-24h30M190 96h31v-30h45" fill="none" stroke="#D2E6A2" stroke-width="3"/>
+<rect x="115" y="58" width="80" height="84" rx="3" fill="#0E1917" stroke="#91B6A0"/><rect x="126" y="70" width="58" height="58" fill="#233A30"/>
+<text x="134" y="102" font-family="Consolas,monospace" font-size="17" fill="#C8DDB5">FPGA</text><circle class="led" cx="270" cy="39" r="5" fill="#D8D992"/>
+</g>
+<text x="26" y="169" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="600" fill="#E4EDDC">Closer to the metal.</text>
+<text x="26" y="198" font-family="Consolas,monospace" font-size="12" fill="#A3B7A8">OV6946 · DDR3 · HDMI</text><text x="374" y="198" font-size="19" fill="#D9D59B">↗</text>
+</svg>

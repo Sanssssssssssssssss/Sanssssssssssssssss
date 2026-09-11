@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="210" viewBox="0 0 420 210" role="img" aria-labelledby="title">
+<title id="title">Agent systems — pi-agent-python. Conceptual agent-loop animation.</title>
+<style>.progress{animation:progress 7s ease-in-out infinite}.line2{animation:line 7s infinite}.line3{animation:line 7s 1s infinite}.cursor{animation:cursor 1.6s steps(2,end) infinite}@keyframes progress{0%,12%{width:12px}75%,100%{width:136px}}@keyframes line{0%,15%{opacity:.25}35%,100%{opacity:1}}@keyframes cursor{50%{opacity:0}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect x="1" y="1" width="418" height="208" rx="10" fill="#141B2D" stroke="#34435B"/>
+<path d="M1 39h418" stroke="#34435B"/><circle cx="20" cy="21" r="4" fill="#D39A91"/><circle cx="35" cy="21" r="4" fill="#F4CA8A"/><circle cx="50" cy="21" r="4" fill="#91B6A0"/>
+<text x="72" y="25" font-family="Consolas,monospace" font-size="12" fill="#9BAFC8">sans@workshop: ~/agents</text>
+<text x="26" y="76" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="600" fill="#E9EDF5">Teaching code to act.</text>
+<g font-family="Consolas,monospace" font-size="14"><text x="27" y="110" fill="#8BC5DA">$ pi-agent</text><text class="line2" x="27" y="135" fill="#AAC0D5">  think → tools → observe</text><text class="line3" x="27" y="159" fill="#91B6A0">  ↳ one more useful step.</text><path class="cursor" d="M260 148h9v14h-9z" fill="#F4CA8A"/></g>
+<rect x="27" y="177" width="136" height="3" rx="1.5" fill="#293B51"/><rect class="progress" x="27" y="177" width="136" height="3" rx="1.5" fill="#8BC5DA"/>
+<text x="27" y="198" font-family="Consolas,monospace" font-size="12" fill="#8FA7C5">pi-agent-python</text><text x="374" y="198" font-family="Segoe UI,Arial,sans-serif" font-size="19" fill="#F4CA8A">↗</text>
+</svg>
