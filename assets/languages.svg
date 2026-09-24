@@ -138,7 +138,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="243.76"
+          width="244.14"
           height="8"
           fill="#adb2cb"
         />
@@ -146,9 +146,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="243.76"
+          x="244.14"
           y="0"
-          width="69.07"
+          width="68.61"
           height="8"
           fill="#3572A5"
         />
@@ -156,9 +156,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="312.83"
+          x="312.75"
           y="0"
-          width="41.13"
+          width="41.19"
           height="8"
           fill="#b2b7f8"
         />
@@ -166,9 +166,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="353.96"
+          x="353.94"
           y="0"
-          width="17.72"
+          width="17.740000000000002"
           height="8"
           fill="#DA5B0B"
         />
@@ -178,7 +178,7 @@
           data-testid="lang-progress"
           x="361.68"
           y="0"
-          width="14.16"
+          width="14.17"
           height="8"
           fill="#89e051"
         />
@@ -186,9 +186,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="365.84000000000003"
+          x="365.85"
           y="0"
-          width="14.15"
+          width="14.16"
           height="8"
           fill="#DAE1C2"
         />
@@ -199,21 +199,21 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#adb2cb" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        VHDL 65.88%
+        VHDL 65.98%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 18.67%
+        Python 18.54%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#b2b7f8" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Verilog 11.12%
+        Verilog 11.13%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
@@ -227,7 +227,7 @@
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#89e051" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Shell 1.12%
+        Shell 1.13%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
